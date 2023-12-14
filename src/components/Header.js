@@ -27,7 +27,7 @@ export const Header = () => {
     <header>
       <Link to="/" className="logo">
         <img src={Logo} alt="WriteNode Logo" />
-        <span>WriteNode</span>
+        <span>Write Posts</span>
       </Link>
       <nav className="nav">
         <NavLink to="/" className="link" end>
